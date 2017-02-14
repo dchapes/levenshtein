@@ -3,7 +3,7 @@ package levenshtein_test
 import (
 	"fmt"
 
-	"github.com/agnivade/levenshtein"
+	"github.com/dchapes/levenshtein"
 )
 
 func Example() {

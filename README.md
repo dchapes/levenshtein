@@ -6,9 +6,9 @@ levenshtein
 Install
 -------
 
-    go get github.com/agnivade/levenshtein
+    go get github.com/dchapes/levenshtein
 
 Documentation
 -------------
 
-Located [here](http://godoc.org/github.com/agnivade/levenshtein)
+Located [here](http://godoc.org/github.com/dchapes/levenshtein)
